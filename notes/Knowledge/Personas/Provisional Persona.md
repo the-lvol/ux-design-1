@@ -1,0 +1,12 @@
+# Provisional Persona
+- Used when there's a lack of time, resources, or corporate buy-in for detailed qualitative data collection.
+- Serve as **rhetorical tools** to communicate assumptions about users and their needs, promoting rigorous thinking about specific user needs, even if unvalidated.
+- Structured like real personas but based on available data, stakeholder knowledge, subject matter expert insights, and existing market data.
+- Act as a more detailed persona hypothesis, useful for focusing product teams and building consensus around features and behaviors despite their provisional nature.
+- **Caveats** include potential misfocus on design targets, missing key behaviors, difficulty in gaining buy-in, and risking the long-term credibility of personas.
+- **Best Practices**:
+  - Clearly label and explain their provisional status.
+  - Use sketches instead of photos to highlight their temporary nature.
+  - Utilize as much existing data as possible to inform these personas.
+  - Document the data used and assumptions made to avoid stereotypes.
+  - Focus on behaviors and motivations over demographics.

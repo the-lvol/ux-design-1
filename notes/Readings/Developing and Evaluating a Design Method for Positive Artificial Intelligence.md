@@ -1,0 +1,20 @@
+# Developing and Evaluating a Design Method for Positive Artificial Intelligence
+See [[Developing and Evaluating a Design Method for Positive Artificial Intelligence.pdf]]
+
+## Keywords
+- [[Positive AI Design Method]]
+  - [[Contextualization]]
+  - [[Operationalizing]]
+  - [[Optimizing]]
+  - [[Implementing Wellbeing]]
+- [[AI For Good]]
+- [[Preventitative Integration]]
+- [[Active Integration]]
+- [[Dedicated Integration]]
+- [[Wellbeing]]
+- [[Cybernetics]]
+- [[Design Thinkinhg]]
+- [[]]
+- [[]]
+- [[]]
+- [[]]

@@ -1,0 +1,2 @@
+# Working Memory 
+Human working memory holds information relevant to the current task; when tasks are too hard, users should be able to offload some of the working-memory burden to user-interface features that can serve as external memory

@@ -1,0 +1,46 @@
+# Cooper About Face Chapter 6
+See [[Cooper About Face Chapter 6.pdf]]
+
+## Keywords
+- [[Scenario]]
+  - Storyboards
+  - Initial Requirements Definitions Phase
+- [[Scenario-Based Design]]
+- [[Persona-Based Scenario]]
+  - Persona-Based Scenario vs. Use Cases
+- [[Use Case]]
+- [[Research Phase]]
+- [[Modelling Phase]]
+- [[Goal-Directed Design Method]]
+  - [[Context Scenario]]
+  - [[Key Path Scenario]]
+  - [[Validation Scenario]]
+  - [[Design Framework]]
+- [[Requirement]]
+- [[Requirements Definition Phase]]
+- [[Requirement Definition]]
+  - [[Framework Definition]] (probably not a part of the curriculum)
+  - [[Persona]]
+  - [[Scenario]]
+  - 5 steps
+    - 1. [[Problem Statement]] and [[Vision Statement]]
+      - TODO: why do we have both a problem- and vision statement, when they're essentially stating the same
+    - 2. Brainstorming
+    - 3. Identify [[Persona]] expectations
+      - [[Mental Model]]
+      - [[Represented Model]] (if everyone's mental model is different, how can we then create a representative model for all or most users?)
+      - [[Implementation Model]]
+    - 4. Constructing [[Context Scenario]]s
+    - 5. Identify Requirements
+      - Persona needs or requirements
+      - [[Data Requirement]]
+      - [[Functional Requirement]]
+      - [[Other Requirement]]
+- [[]]
+- [[]]
+- [[]]
+- [[]]
+- [[]]
+- [[]]
+- [[]]
+- [[]]
